@@ -2,7 +2,7 @@
     <div class="socials-in">
         <div class="socials-list class1 master-class">
             <ul>
-                <li>List 1</li> <!-- Main dfsdsfdsf -->
+                <li>List 1</li> <!-- Main Main dfsdsfdsf -->
                 <li>List 2</li>
                 <li>List 3</li>
                 <li>List 4</li> <!-- 454534534git -->
