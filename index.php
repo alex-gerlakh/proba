@@ -1,5 +1,4 @@
-<div class="sidebar-socials add-class"> <!-- Main comment -->
-<div class="sidebar-socials add-class"> <!-- !!! Alex Alex Alex Alex Comment -->
+<div class="sidebar-socials add-class"> <!-- Main Main 111 Comment -->
     <div class="socials-in">
         <div class="socials-list class1 master-class">
             <ul>
