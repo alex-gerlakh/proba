@@ -2,9 +2,6 @@
     <div class="socials-in">
         <div class="socials-list class1 master-class">
             <ul>
-                <li>List 1</li> <!-- Main Main -->
-                <li>List 1</li> <!-- Alex -->
-                <li>List 2</li> <!-- sldfhsdlfkhs -->
                 <li>List 1</li> <!-- Main Main Alex -->
                 <li>List 2</li> <!-- Add Etwas -->
                 <li>List 3</li>
